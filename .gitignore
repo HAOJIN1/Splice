@@ -1,3 +1,2 @@
-*.png
-*.jpg
-argv_test.py
+*test.py
+/.test/
